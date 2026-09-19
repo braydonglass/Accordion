@@ -59,3 +59,7 @@ This checks the air math and the key layout. Sound and the lid itself need a rea
 - `Sources/AccordionView.swift`, `Sources/KeyCatcher.swift`, `Sources/AccordionApp.swift`: the window and key handling.
 - `make-icon.swift`: draws the app icon.
 - `docs/superpowers/`: the design spec and build plan.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
